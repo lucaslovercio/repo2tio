@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.println("modifico el main luego del pull");
 
+		System.out.println("modifico el main luego del clone");
+		
 	}
 
 }
