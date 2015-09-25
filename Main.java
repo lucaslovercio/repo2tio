@@ -6,6 +6,8 @@ public class Main {
 		
 		System.out.println("Este es el main");
 		
+		System.out.println("modifico el main luego del clone");
+		
 		
 
 	}
