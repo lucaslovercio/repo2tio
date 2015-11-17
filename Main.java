@@ -13,5 +13,12 @@ public class Main {
 		System.out.println("luego del pull en tio2");
 		
 	}
+	
+	public static void Req65(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Implementación del requerimiento 65
+		
+	}
 
 }
